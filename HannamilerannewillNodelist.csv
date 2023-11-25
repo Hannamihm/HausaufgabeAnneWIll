@@ -1,20 +1,20 @@
-id,name,party
-ul,Ursula von der Leyen,CDU
-lk,Lars Klingbeil,SPD
-nr,Norbert Röttgen,CDU
-sw,Sahra Wagenknecht,Linke
-cs,Constanze Stelzenmüller,
-cl,Christian Lindner,FDP
-ks,Karl Schlögel,
-lm,Ljudmyla Melnyk,
-kd,Kristina Dunz,
-el,Egils Levits,
-ab,Annalena Baerbock,Grüne
-ft,Frans Timmermans,
-am,Andrij Melnyk,
-agl,Alexander Graf Lambsdorff,FDP
-er,Egon Ramms,
-rh,Robert Habeck,Grüne
-cm,Claudia Major,
-kp,Katja Petrowskaja,
-rk,Roderich Kiesewetter,CDU
+id,name
+ul,Ursula von der Leyen
+lk,Lars Klingbeil
+nr,Norbert Röttgen
+sw,Sahra Wagenknecht
+cs,Constanze Stelzenmüller
+cl,Christian Lindner
+ks,Karl Schlögel
+lm,Ljudmyla Melnyk
+kd,Kristina Dunz
+el,Egils Levits
+ab,Annalena Baerbock
+ft,Frans Timmermans
+am,Andrij Melnyk
+agl,Alexander Graf Lambsdorff
+er,Egon Ramms
+rh,Robert Habeck
+cm,Claudia Major
+kp,Katja Petrowskaja
+rk,Roderich Kiesewetter
